@@ -13,7 +13,8 @@ I’m **Anesu Chimbi**, a GIS and Remote Sensing expert with a focus on sustaina
 - 📫 **How to reach me**: 
   - [LinkedIn](https://www.linkedin.com/in/albert-c-901484198/?jobid=1234)
   - [GitHub](https://github.com/Anesu-Chimbi)
+  - [Email](mailto:anesuchimbi@gmail.com)
 - ⚡ **Fun fact**: I enjoy **photography** and visual storytelling, which complements my work by enhancing my ability to communicate complex concepts effectively.
 
-Thank you for visiting my GitHub profile!
+Thanks for visiting my GitHub profile!
 
