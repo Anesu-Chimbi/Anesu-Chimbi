@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Anesu Chimbi**, a GIS and Remote Sensing expert with a focus on sustainable solutions in environmental research and agriculture. I’m passionate about leveraging geospatial technologies and **R** for spatial statistics to support environmental research and promote sustainable practices.
+I’m **Anesu A. Chimbi**, a GIS and Remote Sensing expert with a focus on sustainable solutions in environmental research and agriculture. I’m passionate about leveraging geospatial technologies and **R** for spatial statistics to support environmental research and promote sustainable practices.
 
 - 🌱 **Currently working on**: Projects related to **geospatial analysis** and **sustainable agriculture**, utilizing **R** for spatial statistics and visualization.
 - 📚 **Education**: Master’s in Geo-Information Science and Earth Observation from the [University of Twente](https://www.itc.nl/).
